@@ -39,7 +39,7 @@ for i, tokens in enumerate(tokenized_sentences):
 
 print(f"\n vs.vector_data \n{vs.vector_data},\n\n vs.vector_index\n{vs.vector_index}")
 
-query = ""
+query = "IIIT Nagpur students like to eat more fruits than vegetables"
 query_tokens=query.lower().split()
 query_vector=senetence_to_vector(query_tokens)
 
