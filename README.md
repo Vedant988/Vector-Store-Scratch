@@ -2,6 +2,16 @@
 
 This repository contains implementations of various vector store approaches, built from scratch to demonstrate the mathematical concepts and fundamentals behind different embedding and retrieval techniques.
 
+## Progress Tracking
+```
+✅ Simple-Vector-Store                  ✔️ Completed
+✅ TFIDF-Vector-Store                   ✔️ Completed
+📁 Word2Vec-Vector-Store                ⏳ In Progress
+📁 SentenceTransformer-Vector-Store     ⏳ In Progress
+📁 RAG-Engine-Prototypes                ⏳ In Progress
+
+```
+
 ## Repository Structure
 
 ```
